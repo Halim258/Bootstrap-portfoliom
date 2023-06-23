@@ -1,0 +1,10 @@
+.background {
+  background: url(./header-shapes\ mobile.png);
+  background-position: cover;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.custom-margin {
+  margin-top: 150px;
+}
